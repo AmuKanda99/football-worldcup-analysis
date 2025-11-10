@@ -42,3 +42,11 @@ The dataset includes key features such as team names, final placements, goals fo
 - Goal difference vs Points
 - Defense vs Offense importance
 - Point distribution by draw count
+
+### Analysis techniques used
+
+- Used generative AI tools (Github Copilot, ChatGPT and Claude) for code suggestions, design thinking and correction
+- Matplotlib, Seaborn and Plotly plots used to visualise data
+- Descriptive analysis used to summarise and explain data
+
+### Ethical considerations
