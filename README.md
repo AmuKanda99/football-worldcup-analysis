@@ -13,3 +13,12 @@ The dataset includes key features such as team names, final placements, goals fo
 - Give an understanding of how points, wins, draws and losses affect the competitiveness of a team
 - Provide insights to how a strong defense and a strong attack compare to each other
 - Be able to show if there is correlation between placing well in a World Cup and if that affacts the placing in the following one
+
+### Hypothesis and how to validate?
+
+- Hypothesis 1: The average number of goals per team per World Cup has increased over time.
+- Hypothesis 2: The distribution of points per team has become more balanced over time.
+- Hypothesis 3: Teams that performed well in one World Cup (top 4) tend to perform well in the next.
+- Hypothesis 4: Teams with higher goal differences (goals for - goals against) achieve more points.
+- Hypothesis 5: A strong defense (fewer goals_against) contributes more to success than a strong offense (goals for).
+- Hypothesis 6: Teams that draw fewer matches tend to earn more total points.
