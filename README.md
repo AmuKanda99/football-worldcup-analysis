@@ -59,7 +59,7 @@ The dataset includes key features such as team names, final placements, goals fo
 
 ### Dashboard Design
 
-Home page includes dataset and visualisations
+Home page includes dataset and summary statistics
 
 ### Unfixed Bugs
 
