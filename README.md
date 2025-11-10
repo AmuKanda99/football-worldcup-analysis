@@ -32,3 +32,13 @@ The dataset includes key features such as team names, final placements, goals fo
 - Machine Learning .
 - Dashboard development in Streamlit.
 - Iterative testing and refinement based on feedback.
+
+### The rationale to map the business requirements to the Data Visualisations
+
+- Average goal per team over the different World Cup tournaments.
+- Points distribution of teams over the different World Cup tournaments.
+- Collective points distribution over the different World Cup tournaments.
+- Top 4 retention rate
+- Goal difference vs Points
+- Defense vs Offense importance
+- Point distribution by draw count
