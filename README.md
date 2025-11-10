@@ -1,14 +1,12 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-## Template Instructions
+## FIFA - Football World Cup entertainment analysis
 
-Welcome,
+This project analyses historical FIFA World Cup data to explore how future tournaments can be designed to maximize entertainment. It features a reproducible data pipeline for collection, cleaning, and feature engineering across match and event-level data. The analysis applies statistical modeling and exploratory analytics to uncover drivers of excitement — including scoring patterns and competitive balance.
 
-This is the Code Institute student template for the Data Analytics capstone project. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
+### Dataset Content
 
-You can safely delete the Template Instructions section of this README.md file and modify the remaining paragraphs for your own project. Please do read the Template Instructions at least once, though! It contains some important information about the IDE and the extensions we use.
-
-## How to use this repo
+The dataset includes key features such as team names, final placements, goals for and against, wins, and total points. The dataset was gathered from Kaggle.
 
 1. Use this template to create your GitHub project repo. Click the **Use this template** button, then click **Create a new repository**.
 
@@ -27,9 +25,9 @@ You can safely delete the Template Instructions section of this README.md file a
 1. This time, navigate to and select the folder for the project you just downloaded. Then, click **Select Folder**.
 
 1. A virtual environment is necessary when working with Python projects to ensure each project's dependencies are kept separate from each other. You need to create your virtual environment, also called a venv, and then ensure that it is activated any time you return to your workspace.
-Click the gear icon in the lower left-hand corner of the screen to open the Manage menu and select **Command Palette** to open the VS Code command palette.
+   Click the gear icon in the lower left-hand corner of the screen to open the Manage menu and select **Command Palette** to open the VS Code command palette.
 
-1. In the command palette, type: *create environment* and select **Python: Create Environment…**
+1. In the command palette, type: _create environment_ and select **Python: Create Environment…**
 
 1. Choose **Venv** from the dropdown list.
 
@@ -45,9 +43,9 @@ Click the gear icon in the lower left-hand corner of the screen to open the Mana
 
 1. In the terminal, use the command below to install your dependencies. This may take several minutes.
 
- ```console
- pip3 install -r requirements.txt
- ```
+```console
+pip3 install -r requirements.txt
+```
 
 1. Open the `jupyter_notebooks` directory, and click on the notebook you want to open.
 
@@ -61,8 +59,8 @@ Note that the kernel says `Python 3.12.8` as it inherits from the venv, so it wi
 
 ## Deployment Reminders
 
-* Set the `.python-version` Python version to a [Heroku-22](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version that closest matches what you used in this project.
-* The project can be deployed to Heroku using the following steps.
+- Set the `.python-version` Python version to a [Heroku-22](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version that closest matches what you used in this project.
+- The project can be deployed to Heroku using the following steps.
 
 1. Log in to Heroku and create an App
 2. At the **Deploy** tab, select **GitHub** as the deployment method.
