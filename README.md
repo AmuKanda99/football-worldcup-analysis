@@ -56,3 +56,35 @@ The dataset includes key features such as team names, final placements, goals fo
 - Recognize that entertainment value is subjective and may reflect cultural or regional biases.
 - Clearly communicate that statistical patterns indicate correlation, not causation.
 - Consider that maximizing “entertainment” should not come at the cost of player well-being, match fairness, or accessibility for fans.
+
+### Dashboard Design
+
+Home page includes dataset and visualisations
+
+### Unfixed Bugs
+
+No significant unfixed bug
+
+### Development Roadmap
+
+- Data was separated in different CSV files, these files were put together in order to work efficiently
+- Data types were changed to have a clear visualisation
+- Future improvements include working on a better dashboard result
+
+### Main Data Analysis libraries
+
+- pandas
+- numpy
+- plotly
+- streamlit
+
+### Credits
+
+## Content
+
+- Kaggle
+- Code Institute LMS
+
+### Acknowledgements
+
+Thanks to the Code Institute instructors and peers for feedback and support
