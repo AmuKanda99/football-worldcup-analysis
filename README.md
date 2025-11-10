@@ -50,3 +50,9 @@ The dataset includes key features such as team names, final placements, goals fo
 - Descriptive analysis used to summarise and explain data
 
 ### Ethical considerations
+
+- Ensure the dataset was publicly available or properly licensed.
+- Be cautious not to frame smaller or lower-ranked teams as “less entertaining” purely due to lower performance metrics.
+- Recognize that entertainment value is subjective and may reflect cultural or regional biases.
+- Clearly communicate that statistical patterns indicate correlation, not causation.
+- Consider that maximizing “entertainment” should not come at the cost of player well-being, match fairness, or accessibility for fans.
