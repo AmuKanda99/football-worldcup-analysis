@@ -19,5 +19,20 @@ st.set_page_config(
 # ----------------------------------------
 @st.cache_data
 def load_data():
-    # Make sure the CSV file is in the same directory or use a correct relative path
-    return pd.read_csv("processed_worldcup_data.csv")
+    return pd.read_csv("data/processed/processed_worldcup_data.csv")
+
+# ----------------------------------------
+# DISPLAY DATA
+# ----------------------------------------
+data = load_data()
+
+st.title("World Cup Dashboard")
+st.subheader("Raw Data Preview")
+
+# Show the data in an interactive table
+st.dataframe(data)
+
+if st.checkbox("Show raw data"):
+    st.dataframe(data)
+st.subheader("Summary Statistics")
+st.write(data.describe())
