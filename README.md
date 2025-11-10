@@ -78,9 +78,9 @@ No significant unfixed bug
 - plotly
 - streamlit
 
-### Credits
+## Credits
 
-## Content
+#### Content
 
 - Kaggle
 - Code Institute LMS
