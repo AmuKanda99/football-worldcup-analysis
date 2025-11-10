@@ -22,3 +22,13 @@ The dataset includes key features such as team names, final placements, goals fo
 - Hypothesis 4: Teams with higher goal differences (goals for - goals against) achieve more points.
 - Hypothesis 5: A strong defense (fewer goals_against) contributes more to success than a strong offense (goals for).
 - Hypothesis 6: Teams that draw fewer matches tend to earn more total points.
+
+### Project Plan
+
+- Data collection from Kaggle.
+- Data unified into a single dataset.
+- Data cleaning and preprocessing in Jupyter notebooks.
+- Exploratory analysis and feature engineering.
+- Machine Learning .
+- Dashboard development in Streamlit.
+- Iterative testing and refinement based on feedback.
